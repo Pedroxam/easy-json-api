@@ -14,15 +14,14 @@
 		<link rel="shortcut icon" href="assets/img/favicon.ico">
 
 		<!-- Bootstrap Core CSS file -->
-		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		<link rel="stylesheet" href="./bootstrap.min.css">
 
-		<!-- Override CSS file - add your own CSS rules -->
-		<link rel="stylesheet" href="assets/css/styles.css">
+		<link rel="stylesheet" href="./styles.css">
 
 		<!-- Conditional comment containing JS files for IE6 - 8 -->
 		<!--[if lt IE 9]>
-			<script src="assets/js/html5.js"></script>
-			<script src="assets/js/respond.min.js"></script>
+			<script src="./html5.js"></script>
+			<script src="./respond.min.js"></script>
 		<![endif]-->
 	</head>
 	<body>
@@ -181,7 +180,7 @@
 		</div>
 
 		<!-- JQuery scripts -->
-	    <script src="assets/js/jquery-1.11.2.min.js"></script>
+	    <script src="./jquery-1.11.2.min.js"></script>
 
 		<!-- Custom scripts -->
 		<script>
@@ -203,6 +202,6 @@
 		</script>
 		
 		<!-- Bootstrap Core scripts -->
-		<script src="assets/js/bootstrap.min.js"></script>
+		<script src="./bootstrap.min.js"></script>
   </body>
 </html>
